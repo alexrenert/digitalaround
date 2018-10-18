@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "PF Agora Slab Pro Light";
+    src: url("PFAgoraSlabProLight.eot"); /* IE9 */
+    src: local("PF Agora Slab Pro Light"), url("PFAgoraSlabProLight.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("PFAgoraSlabProLight.woff") format("woff"), /* chrome, firefox */
+    url("PFAgoraSlabProLight.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("PFAgoraSlabProLight.svg#PF Agora Slab Pro Light") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

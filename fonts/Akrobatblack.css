@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Akrobat Black";
+    src: url("Akrobatblack.eot"); /* IE9 */
+    src: local("Akrobat Black"), url("Akrobatblack.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Akrobatblack.woff") format("woff"), /* chrome, firefox */
+    url("Akrobatblack.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Akrobatblack.svg#Akrobat Black") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

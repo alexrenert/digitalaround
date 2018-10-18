@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Akrobat SemiBold";
+    src: url("Akrobatsemibold.eot"); /* IE9 */
+    src: local("Akrobat SemiBold"), url("Akrobatsemibold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Akrobatsemibold.woff") format("woff"), /* chrome, firefox */
+    url("Akrobatsemibold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Akrobatsemibold.svg#Akrobat SemiBold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
